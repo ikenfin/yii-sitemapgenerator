@@ -2,6 +2,10 @@
 
 **Yii 1** console command to generate sitemaps.
 
+### Install:
+
+Copy SitemapGeneratorCommand.php into <YII_PROJECT>/protected/commands
+
 ### Usage:
 
 ```bash
