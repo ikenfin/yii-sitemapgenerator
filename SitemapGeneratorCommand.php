@@ -21,9 +21,9 @@
 		// change with params:
 		// field[url]=i.kenfin.ru field[lastmod]=date_update
 		public 	$fields = array(
-			   		'url'		 => 'alias',	// key url means <loc> data, alias -> value from database
-			   		'lastmod'	 => NULL 		// NULL means that this key wontbe processed
-			   	);
+	   		'url'		 => 'alias',	// key url means <loc> data, alias -> value from database
+	   		'lastmod'	 => NULL 	// NULL means that this key wontbe processed
+	   	);
 
 		// command parameters
 		// change with params:
